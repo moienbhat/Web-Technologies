@@ -1,0 +1,76 @@
+td{
+    width:80px;
+    height: 80px;
+    text-align: center;
+}
+
+
+h1{
+    background-color: rgb(34, 252, 34);
+    color: white;
+    width: 40%;
+    font-weight: bold;
+    line-height: 100px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+
+.Zeroborder{
+    border: 0px;
+}
+
+
+.color_green{
+    background-color: rgb(22, 194, 22);
+
+}
+
+.color_tomato{
+    background-color: rgb(180, 19, 19);
+
+}
+
+.color_orange{
+    background-color: rgb(255, 166, 0);
+
+}
+
+
+.color_skyblue{
+    background-color: rgb(134, 241, 255);
+
+}
+
+.color_purple{
+    background-color: rgb(250, 53, 250);
+
+}
+
+
+.color_green{
+    background-color: rgb(44, 235, 44);
+
+}
+
+.color_yellow{
+    background-color:rgb(243, 243, 74);
+
+}
+
+
+.color_pink{
+    background-color: rgb(240, 161, 216);
+
+}
+
+.color_grey{
+    background-color: rgb(171, 194, 171);
+
+}
+
+
+.color_blue{
+    background-color: rgb(81, 111, 240);
+
+}
